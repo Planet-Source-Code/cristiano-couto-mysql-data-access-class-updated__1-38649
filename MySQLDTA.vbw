@@ -1,0 +1,13 @@
+Tables = 0, 0, 0, 0, C
+Table = 0, 0, 0, 0, C
+Fields = 180, 106, 627, 511, 
+Field = 180, 106, 627, 511, 
+Indexes = 0, 0, 0, 0, C
+Index = 0, 0, 0, 0, C
+Connection = 180, 106, 627, 511, CZ
+ResultTable = 180, 105, 627, 511, CZ
+ProcessLists = 180, 106, 627, 511, 
+ProcessList = 180, 106, 627, 511, C
+VariableStates = 180, 106, 627, 511, 
+VariableState = 0, 0, 0, 0, C
+MySQLModule = 180, 106, 627, 511, 
